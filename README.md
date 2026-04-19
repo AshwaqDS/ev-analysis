@@ -138,7 +138,7 @@ Most EVs fall into:
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/Mrutyunjaya-1/Web-Scarping-on-Ev-Dataset.git
+git clone https://github.com/AshwaqDS/ev-analysis
 cd Web-Scarping-on-Ev-Dataset
 pip install pandas numpy matplotlib seaborn beautifulsoup4 requests
 ```
